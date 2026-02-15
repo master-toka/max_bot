@@ -12,8 +12,8 @@ from maxapi.keyboard import InlineKeyboardMarkup, InlineKeyboardButton
 logging.basicConfig(level=logging.INFO)
 
 # Конфигурация
-BOT_TOKEN = "YOUR_BOT_TOKEN_HERE"  # Замените на ваш токен
-ADMIN_ID = 123456789  # Замените на ваш MAX ID
+BOT_TOKEN = "f9LHodD0cOKqO72B63ZwBm7ZGWNy6t4ecg5gZjzenII-X_aXDT9MfUTgeNRt-THuq-ciU7Z5OVxFKTV2Yftt"  # Замените на ваш токен
+ADMIN_ID = 6271996  # Замените на ваш MAX ID
 
 # Инициализация бота и диспетчера
 bot = Bot(token=BOT_TOKEN)
